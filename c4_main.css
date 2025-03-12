@@ -38,7 +38,7 @@ h3 {
 
 /* the styles for the footer */
 
-:hover {
+a:hover {
 	font-style: italic;
 }
 
