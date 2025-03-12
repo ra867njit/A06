@@ -39,7 +39,7 @@ h3 {
 /* the styles for the footer */
 
 a:hover {
-	font-style: italic;
+	font-style: italic !important;
 }
 
 footer p {
